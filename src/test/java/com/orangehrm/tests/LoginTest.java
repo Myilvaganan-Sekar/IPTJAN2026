@@ -17,6 +17,7 @@ public class LoginTest extends BaseTest {
         Assert.assertTrue(login.getCurrentUrl().contains("dashboard"), "Login Failed!");
         System.out.println("Add a  new Line");
         System.out.println("Add your test Script");
+        System.out.println("Tester A updates");
         System.out.println("Add your test Script Two");
     }
 }
